@@ -1,0 +1,45 @@
+.fa-facebook:hover {
+  color: #3b5998 !important;
+}
+
+.fa-twitter:hover {
+  color: #00aced !important;
+}
+
+.fa-linkedin:hover {
+  color: #007bb6 !important;
+}
+
+.custom-profile-icon {
+  font-size: 25px !important;
+  background: #666666;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 6px;
+  -webkit-border-radius: 1100%;
+  -moz-border-radius: 100%;
+  -o-border-radius: 100%;
+  border-radius: 100%;
+  border: 5px solid #ffffff;
+  color: #ffffff;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.46);
+  display: table-cell;
+  vertical-align: middle;
+  width: 48px;
+  height: 48px;
+  -moz-transition: .5s;
+  -webkit-transition: .5s;
+  -o-transition: .5s;
+  transition: .5s;
+  line-height: normal;
+}
+
+.fix-editor {
+  display: none;
+}
+
+.epx-ss-profile-icon {
+  display: inline-block;
+  text-align: center;
+  line-height: 48px;
+  margin-right: 10px;
+}
